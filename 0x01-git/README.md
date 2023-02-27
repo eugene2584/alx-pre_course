@@ -1,1 +1,1 @@
-I have made another readme file in a directory
+I made another read file in a new directory
